@@ -34,5 +34,5 @@ Step 4: Training Model
 	python -m scripts.train -c examples/PGIM/twitter-15.yaml
 	python -m scripts.train -c examples/PGIM/twitter-17.yaml
 -For PGIM:
-	python -m scripts.train -c examples/PGIM/twitter-15-txt.yaml
-	python -m scripts.train -c examples/PGIM/twitter-17-txt.yaml
+	python -m scripts.train -c examples/PGIM/twitter-15-PGIM.yaml
+	python -m scripts.train -c examples/PGIM/twitter-17-PGIM.yaml
