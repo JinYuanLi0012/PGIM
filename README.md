@@ -25,7 +25,7 @@ pip install -r requirements.txt -f https://modelscope.oss-cn-beijing.aliyuncs.co
 -------|twitter-17-txt.yaml
 ```
 
-## Step 3：Replace the original adaseq folder with our adaseq folder
+## Step 3: Replace the original adaseq folder with our adaseq folder
 ```
 -adaseq
 ---|.git
