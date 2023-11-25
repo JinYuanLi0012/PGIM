@@ -1,0 +1,408 @@
+17_06_2932
+['Kawhi Leonard', 'PER'], ['NBA', 'ORG'], ['#NBAAwards', 'MISC']
+16_05_28_123
+['KeyArena', 'LOC'], ['Seattle', 'LOC']
+16_05_17_498
+['hannuhnell', 'PER'], ['rihanna', 'PER']
+16_05_10_969
+None
+17_06_7980
+['Cavs', 'ORG'], ['Warriors', 'ORG'], ['Cavaliers', 'ORG'], ['NBA', 'ORG']
+17_06_11757
+None
+O_3127
+['James Franco', 'PER'], ['Mother, May I Sleep with Danger?', 'MISC']
+17_06_1239
+['Bundesliga_EN', 'ORG']
+17_06_13987
+['warriors', 'ORG'], ['Erik', 'PER']
+17_06_1237
+['ETSUFootball', 'ORG']
+O_2548
+None
+17_06_5383
+['Paris', 'LOC']
+16_05_31_538
+['Canadian', 'LOC'], ['Rio', 'LOC']
+16_05_14_1167
+['British', 'LOC']
+O_3129
+['Donald Trump', 'PER']
+O_4146
+['Harry Potter and The Order of Phoenix', 'MISC']
+16_05_01_391
+['dachejones', 'PER']
+O_4097
+['Donald Trump', 'PER'], ['Anger', 'PER']
+16_05_01_222
+None
+16_05_10_327
+['Indonesia', 'LOC']
+O_2430
+['Justin Bieber', 'PER'], ['Boston', 'LOC'], ['Massachusetts', 'LOC']
+O_1852
+['Wayne Rooney', 'PER'], ['Manchester United', 'ORG']
+O_3825
+['Bieber', 'PER'], ['Justin Bieber', 'PER'], ['Justin Bieber', 'PER'], ['Justin Bieber', 'PER']
+16_05_08_609
+['Maracana Stadium', 'LOC']
+16_05_16_323
+['LCFCParade', 'MISC']
+16_05_27_128
+['B.A.P', 'PER']
+16_05_07_249
+None
+17_01_5292
+['Cheshire', 'ORG']
+16_05_23_197
+['NCAA', 'ORG']
+O_320
+['Donald Trump', 'PER'], ['Marla Maples', 'PER']
+16_05_28_482
+['LeBron James', 'PER'], ['NBA', 'ORG']
+16_05_14_1061
+['Cheshire', 'ORG']
+O_4757
+['Warcraft', 'MISC']
+O_2619
+['Donald Trump', 'PER']
+O_244
+['Sergio Ramos', 'PER'], ['Champions League', 'MISC']
+16_05_02_310
+['Avenged Sevenfold', 'PER'], ['Deftones', 'PER'], ['Chevelle', 'PER'], ['Texas Mutiny Festival', 'MISC']
+16_05_20_599
+['Bhoy', 'PER']
+17_06_14665
+['HenkeKohl', 'PER']
+16_05_07_737
+['Ranger', 'ORG']
+17_01_20057
+['Owen', 'PER'], ['Cats', 'ORG']
+17_06_890
+None
+O_3793
+['Harry Potter and the Sorcerer's Stone', 'MISC'], ['J.K. Rowling', 'PER']
+16_05_05_619
+['Eastridge', 'ORG'], ['Wayne', 'ORG']
+O_2881
+['Harry Potter', 'PER']
+17_06_9989
+['Kirstin Taylor', 'PER'], ['Scott Hoying', 'PER'], ['Gill', 'PER']
+O_284
+['Barack Obama', 'PER'], ['America', 'LOC'], ['Trump', 'PER']
+O_980
+['Justin Bieber', 'PER'], ['Kendall Jenner', 'PER'], ['Calvin Klein', 'ORG']
+O_1802
+['Twin Peaks Fire Walk With Me', 'MISC'], ['David Bowie', 'PER']
+17_06_10579
+['Augustana', 'ORG'], ['Augie_Baseball', 'ORG']
+17_06_13227
+['SalineBaseball', 'ORG']
+17_06_16006
+['Kiwanis Club of Greater Anaheim', 'ORG']
+16_05_08_852
+None
+16_05_15_654
+['Heidi Klum', 'PER'], ['Cannes Film Festival', 'MISC']
+16_05_09_962
+['Miami', 'LOC'], ['Georgia Tech', 'LOC']
+16_05_09_598
+['Bryce Krueger', 'PER'], ['Drury University', 'ORG']
+O_1483
+['Justin Bieber', 'PER'], ['Quebec', 'LOC'], ['Canada', 'LOC']
+O_2824
+['Barack Obama', 'PER'], ['Pope Francis', 'PER'], ['Bill Gates', 'PER'], ['America', 'LOC']
+17_06_10205
+['NBA', 'ORG']
+O_2186
+['Kim Kardashian', 'PER']
+16_05_30_669
+['Warriors', 'ORG'], ['NBA', 'ORG']
+17_06_1791
+None
+16_05_31_1048
+['NFL', 'ORG']
+17_06_13187
+['De'Aaron Fox', 'PER'], ['Kings', 'ORG']
+16_05_22_757
+['Target Field', 'LOC']
+16_05_29_592
+['MLB', 'ORG'], ['Giants', 'ORG']
+17_06_12474
+['MLB_uk', 'ORG'], ['Mets', 'ORG'], ['GrafixJoker', 'PER']
+17_06_10642
+['GOP', 'LOC']
+16_05_05_987
+['NBA', 'ORG'], ['Raptors', 'ORG'], ['Miami', 'ORG']
+16_05_29_423
+['Outlook Festival', 'MISC']
+16_05_18_79
+None
+17_06_12458
+['joedonbaker', 'PER']
+16_05_16_287
+['OKC Thunder', 'ORG'], ['NBA', 'ORG']
+O_1125
+['Barack Obama', 'PER']
+17_06_14336
+None
+17_06_15661
+['Cameroon', 'ORG'], ['Chile', 'ORG'], ['Sverussssnape', 'PER']
+16_05_07_563
+['Tigers', 'ORG']
+16_05_30_194
+['FAU', 'ORG'], ['Miami', 'LOC']
+16_05_09_291
+None
+16_05_30_1097
+None
+16_05_01_281
+['NBA', 'ORG']
+O_3637
+['Harry Potter', 'PER']
+O_418
+['Shah Rukh Khan', 'PER'], ['Kolkata', 'LOC'], ['Mumbai', 'LOC']
+16_05_18_298
+['Cursus Festival', 'MISC']
+16_05_19_1
+['Baltimore Orioles', 'ORG'], ['Seattle Mariners', 'ORG'], ['MLB', 'ORG']
+16_05_30_1034
+None
+16_05_30_851
+['MC24H Art Festival', 'MISC']
+17_06_7880
+['IronPigs', 'ORG']
+16_05_04_60
+['MLB', 'ORG']
+16_05_01_498
+['Connor Cook', 'PER'], ['NFL', 'ORG']
+16_05_07_222
+['Columbus', 'LOC'], ['Ohio', 'LOC']
+16_05_17_450
+['Fikayo Tomori', 'PER'], ['Chelsea', 'ORG'], ['Nigerian', 'LOC']
+17_01_6026
+['Kevin Love', 'PER'], ['Kevin', 'PER']
+17_06_5515
+['Kiss108', 'ORG']
+16_05_01_253
+['Toms River South', 'ORG'], ['Point Beach', 'ORG']
+O_2074
+['Rio Ferdinand', 'PER'], ['Jose Mourinho', 'PER'], ['MUFC', 'ORG']
+17_06_13128
+['Metallica', 'ORG'], ['Detroit', 'LOC'], ['Michigan', 'LOC']
+17_06_12677
+['Wenstrup', 'PER']
+O_4731
+['Rosie O'Donnell', 'PER'], ['Donald Trump', 'PER']
+16_05_20_1041
+['OHS', 'ORG'], ['Fort Atkinson', 'ORG'], ['Roosevelt Field', 'LOC']
+17_06_11803
+['KetchappBasketball', 'MISC']
+O_4660
+['Ed Sheeran', 'PER']
+16_05_05_206
+['Emily', 'PER']
+O_2447
+['One Direction', 'PER']
+16_05_01_767
+['Cameron', 'PER']
+O_4561
+['Justin Bieber', 'PER'], ['Make-A-Wish', 'ORG']
+O_4534
+['Steve Lacy', 'PER'], ['Kendrick Lamar', 'PER']
+16_05_29_197
+['Cher', 'PER']
+17_06_9124
+['NFL', 'ORG']
+O_1413
+['Emma Watson', 'PER']
+O_885
+['Robin Hood', 'PER'], ['Nottingham', 'LOC']
+16_05_13_176
+None
+16_05_30_145
+['Inbal Arieli', 'PER'], ['Israeli', 'LOC']
+16_05_30_577
+['Madison Community Band', 'ORG'], ['Richmond Centre', 'LOC']
+17_06_3060
+['Taitung', 'LOC'], ['Taiwan', 'LOC']
+17_06_12408
+['NBA', 'ORG'], ['Bleacher Report', 'ORG'], ['LeBron', 'PER'], ['KD', 'PER']
+O_590
+['Ellen DeGeneres', 'PER'], ['Santa Barbara', 'LOC']
+16_05_06_509
+['Harden', 'PER']
+O_2319
+['Kelly Rowland', 'PER'], ['Tina Knowles', 'PER']
+16_05_02_260
+['Leicester', 'LOC'], ['Vardy', 'PER']
+O_3733
+['The Flash', 'MISC'], ['Kevin Smith', 'PER']
+16_05_27_87
+['MVHS', 'ORG']
+16_05_05_1036
+['Sierra Leone', 'LOC']
+17_06_12835
+['bucovina', 'PER'], ['Bucovinametal', 'PER'], ['Ragnarok Festival', 'MISC']
+O_2951
+['Times Square', 'LOC'], ['New York City', 'LOC']
+16_05_27_275
+['Jang Geun Suk', 'PER']
+16_05_04_526
+None
+O_4938
+['Japan', 'LOC'], ['Tokyo', 'LOC']
+O_136
+['Justin Bieber', 'PER']
+16_05_25_689
+['GPISDECHS', 'ORG'], ['Coach Trevino', 'PER']
+16_05_06_582
+['Hannah Doran', 'PER'], ['Lady Griz', 'ORG']
+16_05_08_311
+['Grace', 'PER']
+16_05_28_446
+['DWS', 'ORG'], ['Valwood', 'ORG'], ['Milledgeville', 'LOC']
+17_06_2556
+['America', 'PER']
+17_06_4113
+['Lucky Blue', 'PER'], ['Santa Ana', 'LOC']
+16_05_23_393
+['Somerville Middle School', 'ORG'], ['Bulldog', 'ORG'], ['Readington', 'LOC']
+16_05_23_505
+['Holt High School', 'ORG'], ['Grand Ledge High School', 'ORG']
+O_1567
+['Rio Ferdinand', 'PER']
+16_05_06_815
+['Delaware', 'ORG']
+16_05_16_481
+['Steph Curry', 'PER'], ['NBA', 'ORG']
+O_1593
+['Jim Morrison', 'PER'], ['Van Morrison', 'PER'], ['LA', 'LOC']
+O_509
+['Delaware', 'PER']
+O_3015
+['Kim Jong-un', 'PER']
+O_1445
+['Justin Bieber', 'PER'], ['David Guetta', 'PER']
+17_06_11033
+['Erik Neander', 'PER'], ['Tampa Bay Rays', 'ORG']
+16_05_01_810
+['Uche Kalu', 'PER']
+17_06_14559
+['Rihanna', 'PER'], ['NBA', 'ORG']
+O_1313
+['Justin Bieber', 'PER'], ['New York City', 'LOC']
+16_05_09_1034
+['Maradona', 'PER']
+17_01_12917
+['Peninsula High', 'ORG']
+O_2660
+['Hamilton', 'PER']
+O_1353
+['Donald Trump', 'PER']
+16_05_26_522
+['smokeseasonband', 'PER']
+16_05_31_316
+['CMU Hoops', 'ORG'], ['NIACsports', 'ORG']
+O_585
+['Jennifer Lopez', 'PER'], ['L.A.', 'LOC']
+O_2753
+['Donald Trump', 'PER']
+17_06_13629
+['Shawn Mendes', 'PER']
+17_06_11578
+None
+16_05_03_988
+['Super Furry Animals', 'PER'], ['Wales', 'LOC']
+16_05_09_946
+['Liam', 'PER'], ['Beyoncé', 'PER'], ['Houston', 'LOC'], ['Texas', 'LOC']
+O_129
+['Justin Bieber', 'PER'], ['Milan', 'LOC'], ['Italy', 'LOC']
+17_06_12452
+['ACGCSchools', 'ORG']
+17_06_2955
+None
+17_06_8470
+['Festontheclose', 'MISC']
+O_1257
+['Kendrick Lamar', 'PER']
+17_06_13819
+['Kurt Sutter', 'PER'], ['FaceTime', 'MISC'], ['sonsofanarchy', 'MISC'], ['ATXFestival', 'MISC']
+16_05_24_110
+['The Cure', 'PER']
+16_05_23_51
+['World Architecture Festival', 'ORG']
+O_3895
+['Anne Frank', 'PER']
+16_05_02_207
+['Canes', 'ORG'], ['Hurricanes', 'ORG']
+17_06_2846
+['Victor Oladipo', 'PER'], ['NBA Awards', 'MISC']
+O_1761
+['Ryan Reynolds', 'PER']
+17_06_1068
+['Bulldog', 'ORG'], ['Olmsted Falls', 'LOC']
+17_06_5413
+['NBA', 'ORG'], ['Stephen Curry', 'PER']
+17_06_4080
+['EDM summer festivals', 'MISC']
+17_06_13992
+None
+17_06_15911
+['Kevin Stefanski', 'PER'], ['NBA', 'ORG'], ['NFL', 'ORG']
+O_432
+['Calvin Klein', 'ORG']
+16_05_11_1098
+['Giants', 'ORG'], ['NFL', 'ORG']
+17_06_3135
+None
+16_05_01_570
+['Gabby', 'PER'], ['gpiccca', 'PER']
+16_05_20_30
+None
+O_4101
+['NowPlaying', 'ORG'], ['Z100TheBeat', 'ORG'], ['James Brown', 'PER'], ['The Big Payback', 'ORG']
+17_06_2736
+['Los Angeles Chargers', 'ORG'], ['NFL', 'ORG'], ['Chargers', 'ORG']
+O_2075
+['Neil deGrasse Tyson', 'PER'], ['Stephen Hawking', 'PER']
+O_3817
+['German', 'MISC']
+17_06_13156
+['Glastonbury festival', 'MISC']
+O_2312
+['Donald Trump', 'PER'], ['GOP', 'ORG'], ['Cruz', 'PER'], ['Kasich', 'PER']
+16_05_06_645
+['University of Minnesota', 'ORG']
+16_05_15_188
+None
+16_05_07_524
+['The Scarlets', 'ORG'], ['HayFestival', 'MISC']
+16_05_14_740
+['Pakistan', 'LOC'], ['Pakistan Photo Festival', 'MISC']
+16_05_02_940
+['Leicester City Football Club', 'ORG']
+16_05_22_293
+['KAABOO Festival', 'MISC']
+O_3326
+['Harry Potter', 'PER'], ['Voldemort', 'PER']
+16_05_08_771
+['SmithySoccerAM', 'PER']
+O_1253
+['Emma Watson', 'PER']
+17_06_3768
+['Gators', 'ORG']
+17_01_16163
+['Kings', 'ORG'], ['Warriors', 'ORG']
+16_05_03_550
+['Steven Adams', 'PER'], ['NBA', 'ORG']
+17_06_10590
+['Ahmed Musa', 'PER']
+16_05_27_124
+['Weekend In The Woods Festival', 'MISC'], ['ColumbiaFestArt', 'MISC']
+O_2684
+['Harry Potter', 'PER']
+16_05_23_1077
+['skyfootball', 'ORG'], ['Bangkok', 'LOC']
+O_1242
+['Chicago', 'LOC']

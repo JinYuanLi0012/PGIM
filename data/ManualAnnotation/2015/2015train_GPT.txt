@@ -1,0 +1,246 @@
+563049
+['Smash Shiba', 'PER'], ['Melee Grand Finals', 'OTHER']
+50447
+['Baltimore', 'LOC']
+50168
+['Katie Hopkins', 'PER']
+684051
+['LA', 'LOC']
+1351124
+['Pope Francis', 'PER']
+1330809
+['Peter Dutton', 'PER']
+317066
+['Alex', 'PER']
+1299485
+['Peoria', 'LOC']
+151567
+['Egypt', 'LOC'], ['Jim Beam American Stillhouse', 'LOC']
+140364
+['World Water Week', 'OTHER'], ['Water', 'OTHER']
+323182
+['University of Swat', 'ORG']
+12615
+['Gregg Popovich', 'PER'], ['Becky Hammon', 'PER'], ['NBA', 'ORG']
+10964
+['Abbey Lee Kershaw', 'PER'], ['Becky Hammon', 'OTHER']
+627764
+['Claude Richmond', 'PER'], ['Senate', 'ORG']
+1061636
+['Cristo Redentor', 'LOC'], ['Dynamo', 'PER']
+1486617
+['Pluto', 'OTHER']
+369143
+['Meek Mill', 'PER'], ['Nicki', 'PER']
+23954
+['Kate Atkinson', 'PER'], ['Case Histories', 'OTHER']
+113422
+['Germany', 'LOC'], ['Munich', 'LOC']
+65565
+['Silver Falls', 'LOC'], ['Oregon', 'LOC']
+995927
+['Jamie Oliver', 'LOC'], ['Hampstead', 'LOC']
+971737
+['Daniel Craig', 'PER'], ['James Bond', 'PER']
+556964
+['EMS', 'ORG'], ['ER Team', 'ORG']
+62358
+['Kendrick', 'PER']
+73702
+['Jerusalem City Hall', 'LOC']
+65347
+['Berlin Wall', 'LOC']
+68397
+['North Atlantic Council', 'ORG'], ['NATO', 'ORG']
+1045634
+['Bob Fosse', 'PER']
+1413062
+['BBC', 'ORG']
+407264
+['Wesley Sneijder', 'PER'], ['Galatasaray', 'ORG']
+840854
+['Nokia', 'ORG']
+495612
+['Hawaii', 'LOC']
+70920
+['Iggy', 'PER'], ['Spongebob', 'OTHER']
+70666
+['Las Vegas', 'LOC']
+1051340
+['Florianopolis', 'LOC'], ['Brasil', 'LOC'], ['Ironman', 'ORG']
+50167
+['Warraich', 'PER'], ['Imams Online', 'ORG']
+403578
+['St. Louis', 'LOC']
+689339
+['Americas', 'LOC']
+1866367
+['Malta', 'LOC']
+1359666
+['Cheltenham Races', 'LOC']
+917882
+['Seahawks', 'ORG'], ['Tecmo Super Bowl', 'OTHER']
+1342471
+['Wiz', 'PER']
+1794188
+['Rachael Speirs', 'PER']
+92140
+['Dr. John Bosman', 'PER']
+63645
+['Bo Jordan', 'PER'], ['Hunter Stieber', 'PER']
+120153
+['Ferguson', 'LOC']
+1405149
+['Macedonia', 'LOC'], ['Serbia', 'LOC'], ['Gevgelija', 'LOC']
+65339
+['Navy', 'ORG']
+91551
+['Isaiah', 'PER'], ['Easter', 'OTHER']
+760088
+['Kobe Bryant', 'PER'], ['Shaq', 'PER']
+90471
+['Ken Watanabe', 'PER']
+414512
+['Nepal', 'LOC']
+493590
+['Uncle Tetsu', 'PER'], ['Toronto Coach Terminal', 'LOC']
+13913
+['Neka Art Museum Ubud', 'LOC']
+119897
+['Vogue', 'ORG']
+30481
+['Caribbean', 'LOC']
+464838
+['Grayhaven Island', 'LOC'], ['Detroit', 'LOC']
+1097672
+['Hillary Clinton', 'PER'], ['Ted Cruz', 'PER']
+682357
+['Russia', 'LOC'], ['GB', 'LOC']
+67960
+['Jon Stewart', 'PER']
+67864
+['Giuliani', 'PER'], ['Obama', 'PER']
+1443312
+['William Harley', 'PER'], ['Arthur Davidson', 'PER']
+72915
+['Wrigley', 'LOC']
+124220
+['Australia', 'LOC']
+1375217
+['Bucks County', 'LOC'], ['Betsy Thomson', 'PER']
+125882
+['Grand Canyon', 'LOC']
+67406
+['Starbucks', 'ORG'], ['Race Together', 'OTHER']
+953369
+['Michelle Obama', 'PER']
+417429
+['Spock', 'PER'], ['Vulcan', 'PER'], ['California', 'LOC']
+1717443
+['Niall', 'PER'], ['Santa Clara', 'LOC']
+35327
+['Woodstock', 'LOC']
+70513
+['Bears', 'ORG'], ['John Fox', 'PER'], ['Dolphins', 'ORG']
+421004
+['VARSITY ZONE', 'OTHER'], ['AZ', 'LOC']
+809755
+['Musanze', 'LOC']
+1287451
+['Apple', 'ORG'], ['Nikon', 'ORG'], ['Flickr', 'OTHER']
+414371
+['Langkawi Island', 'LOC']
+820543
+['National Latino Education Institute', 'ORG']
+864143
+['Westfields Hospital', 'ORG']
+304783
+['Jens Nielsen', 'PER'], ['Michele Sabban', 'PER']
+72188
+['Carolina Blue', 'OTHER']
+617679
+['John Lennon', 'PER']
+72036
+['Washington', 'LOC'], ['Sochi', 'LOC'], ['Instagram', 'OTHER']
+118201
+['Kendrick Perkins', 'PER'], ['Mike Miller', 'PER']
+66076
+['Larry Klayman', 'PER'], ['Hillary Clinton', 'PER']
+33240
+['IndyCar', 'ORG'], ['Boston', 'LOC']
+830659
+['Lego', 'ORG']
+90744
+['Hastings', 'LOC']
+72856
+['Max Verstappen', 'PER']
+46536
+['Chicago', 'LOC'], ['Austin', 'LOC']
+72648
+['Middle East', 'LOC']
+623109
+['UNCTAD', 'ORG']
+1375644
+['Jarrett J. Kroscozka', 'PER']
+91939
+['Pamela Adelman', 'PER'], ['Hyde Park Day School', 'ORG']
+423017
+['Coyotes', 'ORG'], ['Anthony Duclair', 'PER']
+71477
+['Fenway', 'LOC']
+656412
+['The Haves and the Have Nots', 'OTHER']
+72018
+['White House', 'LOC']
+34822
+['Helmut Kohl', 'PER'], ['Brandenburg Gate', 'LOC']
+616876
+['Donald Trump', 'PER'], ['GOP', 'ORG']
+13293
+['Bowes Museum', 'LOC'], ['Barnard Castle', 'LOC']
+728695
+['Ann Meyerhoff', 'PER']
+130765
+['Diddy', 'PER'], ['FX', 'ORG']
+73371
+['Mexico', 'LOC']
+14478
+['Angelina Jolie', 'PER']
+1064107
+['Malbork', 'LOC'], ['Poland', 'LOC']
+1764202
+['Hotel Monaco', 'LOC']
+10215
+['Michelle', 'PER']
+421386
+['La Quinta Inn', 'ORG'], ['I-17', 'LOC'], ['Thomas', 'PER']
+125859
+['Centraal Beheer', 'ORG']
+1034584
+['Ystrad Mynach', 'LOC']
+116815
+['Sean Astin', 'PER'], ['Rudy', 'PER']
+705570
+['Pickens High School', 'ORG'], ['Dorman High', 'ORG']
+24022
+['Russia', 'LOC'], ['INTERPOL', 'ORG']
+638621
+['Hapahuwa', 'LOC'], ['President Rajapaksa', 'PER']
+1026486
+['Newquay', 'LOC'], ['Cornwall', 'LOC']
+70118
+['Georgia', 'PER']
+71765
+['North Avenue Beach', 'LOC']
+73344
+['Jackie Robinson West', 'ORG']
+1359058
+['Lake Michigan', 'LOC']
+822028
+['Macomb', 'LOC'], ['Mary Brookhart', 'PER']
+383155
+['Netflix', 'ORG']
+1405319
+['Mexico', 'LOC'], ['El Chapo', 'PER'], ['AFP', 'ORG']
+93783
+['Geraldine McEwan', 'PER'], ['The Sittaford Mystery', 'OTHER']
