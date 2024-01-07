@@ -10,6 +10,14 @@ Here are code and dataset for our Findings of EMNLP 2023 paper: [Prompting ChatG
 # Dataset
 To ease the code running, you can find our pre-processed datasets at [here](https://www.modelscope.cn/datasets/Dexter1202/PGIM/files). And the predefined artificial samples are [here](data/ManualAnnotation).
 
+# requirement
+```
+python == 3.7
+torch == 1.13.1
+transformers == 4.30.2
+modelscope == 1.7.1
+```
+
 # Usage
 PGIM is based on [AdaSeq](https://github.com/modelscope/AdaSeq), AdaSeq project is based on Python version >= 3.7 and PyTorch version >= 1.8.
 
