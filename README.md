@@ -65,26 +65,12 @@ pip install -r requirements.txt -f https://modelscope.oss-cn-beijing.aliyuncs.co
 # Citation
 If you find PGIM useful in your research, please consider citing:
 ```
-@inproceedings{li-etal-2023-prompting,
-    title = "Prompting {C}hat{GPT} in {MNER}: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge",
-    author = "Li, Jinyuan  and
-      Li, Han  and
-      Pan, Zhuo  and
-      Sun, Di  and
-      Wang, Jiahao  and
-      Zhang, Wenkun  and
-      Pan, Gang",
-    editor = "Bouamor, Houda  and
-      Pino, Juan  and
-      Bali, Kalika",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
-    month = dec,
-    year = "2023",
-    address = "Singapore",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.findings-emnlp.184",
-    pages = "2787--2802",
-    abstract = "Multimodal Named Entity Recognition (MNER) on social media aims to enhance textual entity prediction by incorporating image-based clues. Existing studies mainly focus on maximizing the utilization of pertinent image information or incorporating external knowledge from explicit knowledge bases. However, these methods either neglect the necessity of providing the model with external knowledge, or encounter issues of high redundancy in the retrieved knowledge. In this paper, we present PGIM {---} a two-stage framework that aims to leverage ChatGPT as an implicit knowledge base and enable it to heuristically generate auxiliary knowledge for more efficient entity prediction. Specifically, PGIM contains a Multimodal Similar Example Awareness module that selects suitable examples from a small number of predefined artificial samples. These examples are then integrated into a formatted prompt template tailored to the MNER and guide ChatGPT to generate auxiliary refined knowledge. Finally, the acquired knowledge is integrated with the original text and fed into a downstream model for further processing. Extensive experiments show that PGIM outperforms state-of-the-art methods on two classic MNER datasets and exhibits a stronger robustness and generalization capability.",
+@inproceedings{li2023prompting,
+  title={Prompting chatgpt in MNER: enhanced multimodal named entity recognition with auxiliary refined knowledge},
+  author={Li, Jinyuan and Li, Han and Pan, Zhuo and Sun, Di and Wang, Jiahao and Zhang, Wenkun and Pan, Gang},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={2787--2802},
+  year={2023}
 }
 ```
 
