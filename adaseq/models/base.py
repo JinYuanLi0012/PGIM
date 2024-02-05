@@ -159,9 +159,9 @@ class Model(MsModel, ABC):
             if self.pipeline is not None:
                 config['pipeline'] = {'type': self.pipeline}
 
-            for field in ['experiment', 'dataset', 'train', 'evaluation']:
-                if field in config:
-                    del config[field]
+            #for field in ['experiment', 'dataset', 'train', 'evaluation']:
+            #    if field in config:
+            #        del config[field]
 
             if (
                 'preprocessor' in config
