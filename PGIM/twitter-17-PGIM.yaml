@@ -1,6 +1,6 @@
 experiment:
   exp_dir: experiments/
-  exp_name: more-twitter-17-txt
+  exp_name: twitter-17-PGIM
   seed: 42
 
 task: named-entity-recognition
