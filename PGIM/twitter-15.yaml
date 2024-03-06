@@ -1,6 +1,6 @@
 experiment:
   exp_dir: experiments/
-  exp_name: more-twitter-15
+  exp_name: twitter-15
   seed: 42
 
 task: named-entity-recognition
