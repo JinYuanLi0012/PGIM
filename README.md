@@ -73,8 +73,7 @@ If you find PGIM useful in your research, please consider citing:
 @inproceedings{li2023prompting,
   title={Prompting chatgpt in MNER: enhanced multimodal named entity recognition with auxiliary refined knowledge},
   author={Li, Jinyuan and Li, Han and Pan, Zhuo and Sun, Di and Wang, Jiahao and Zhang, Wenkun and Pan, Gang},
-  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
-  pages={2787--2802},
+  booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
   year={2023}
 }
 ```
