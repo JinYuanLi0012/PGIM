@@ -6,7 +6,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prompt-chatgpt-in-mner-improved-multimodal/multi-modal-named-entity-recognition-on-3)](https://paperswithcode.com/sota/multi-modal-named-entity-recognition-on-3?p=prompt-chatgpt-in-mner-improved-multimodal)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prompt-chatgpt-in-mner-improved-multimodal/multi-modal-named-entity-recognition-on)](https://paperswithcode.com/sota/multi-modal-named-entity-recognition-on?p=prompt-chatgpt-in-mner-improved-multimodal)
 
-![My Image](main.png)
+![Image](main.png)
 
 </div>
 
