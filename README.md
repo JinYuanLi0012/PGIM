@@ -14,7 +14,7 @@ Here are code and dataset for our Findings of EMNLP 2023 paper: [Prompting ChatG
 
 # News🔥
 
- - **[Jun. 2024]** A new research has been released. In this [paper](https://arxiv.org/abs/2406.07268), we propose a new Segmented Multimodal Named Entity Recognition (SMNER) task and construct the corresponding Twitter-SMNER dataset. Code and Twitter-SMNER dataset coming soon~
+ - **[Jun. 2024]** [A new research](https://arxiv.org/abs/2406.07268) has been released. We propose a new Segmented Multimodal Named Entity Recognition (SMNER) task and construct the corresponding Twitter-SMNER dataset. Code and Twitter-SMNER dataset [coming soon](https://github.com/JinYuanLi0012/RiVEG)~
  - **[May. 2024]** [RiVEG](https://github.com/JinYuanLi0012/RiVEG) (the sequel to PGIM about GMNER) has been accepted to ACL 2024 Findings.
  - **[Oct. 2023]** PGIM has been accepted to EMNLP 2023 Findings.
 
