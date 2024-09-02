@@ -101,4 +101,6 @@ If you find PGIM useful in your research, please consider citing:
 # Acknowledgement
 Our code is built upon the open-sourced [AdaSeq](https://github.com/modelscope/AdaSeq) and [MoRe](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe), Thanks for their great work!
 
+<body>
 <a href="http://www.clustrmaps.com/map/Github.com/JinYuanLi0012/PGIM" title="Visit tracker for Github.com/JinYuanLi0012/PGIM"><img src="//www.clustrmaps.com/map_v2.png?d=wLU9jsKsKapgO3iBFvPN02llSfykUnwj2CoFKe-hbeM" /></a>
+</body>
